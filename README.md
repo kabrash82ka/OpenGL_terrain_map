@@ -11,12 +11,18 @@
 
 Keyboard Commands:
 - General Keys
+
+| Key | Desc |
+| --- | --- |
 | 0 | Start/Pause Simulation |
 | F1 | Change Camera to Free Mode |
 | F2 | Change Camera to Character Mode |
 | o | Print draw statistics |
 
 - Camera Keys
+
+| Key | Desc |
+| --- | --- |
 | Left-Arrow | Rotate Counter Clockwise |
 | Right-Arrow | Rotate Clockwise |
 | w | Move forward |
@@ -32,6 +38,9 @@ Keyboard Commands:
 use mouse to look around
 
 - Truck Keys:
+
+| Key | Desc |
+| --- | --- |
 | w | Accelerate |
 | a	| Steer Left |
 | d	| Steer Right |
@@ -39,6 +48,9 @@ use mouse to look around
 | e	| Leave Vehicle |
 
 - Character Keys:
+
+| Key | Desc |
+| --- | --- |
 | Left-Arrow | Rotate left |
 | Right-Arrow | Rotate right |
 | w	| Move forward |
