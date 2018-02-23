@@ -7,7 +7,7 @@
 ![](screenshot_terrain_map.png?raw=true)
 ![](wireframe_terrain.png?raw=true)
 ![](screenshot_bushes.png?raw=true)
-![](wireframe_terrain.png?raw=true)
+![](screenshot_terrain_lit_vertex_diffuse.png?raw=true)
 
 Keyboard Commands:
 - General Keys
